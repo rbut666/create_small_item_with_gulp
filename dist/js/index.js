@@ -1,0 +1,1 @@
+"use strict";console.log("this text is from index.js");
